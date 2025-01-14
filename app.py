@@ -70,9 +70,9 @@ def get_recommendations(score):
 
 # Streamlit application
 def main():
-    st.title("Intellectual Humility Chatbot")
+    st.title("Intellectual Humility Questionnaire")
     st.write("""
-    This chatbot will ask you 10 quick questions to gauge how intellectually humble you are.
+    This quistionnaire will ask you 10 quick questions to gauge how intellectually humble you are.
     Please answer honestly for the most accurate result.
     """)
 
